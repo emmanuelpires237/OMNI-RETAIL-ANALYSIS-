@@ -12,6 +12,7 @@ ________________________________________
 **2.Project Scope**
 
 The project aimed to:
+
 •	Analyze and visualize customer satisfaction and loyalty patterns
 •	Measure the impact of key factors such as support interaction, purchase history, and demographics
 •	Identify regional and segment-based differences
