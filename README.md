@@ -53,7 +53,7 @@ Used slicers and interactive filters (Location, Age, Satisfaction Factor) for fl
 ________________________________________
 **4.Data Source**
 
-*Dataset: DataDNA Dataset Challenge - Customer Satisfaction Data
+* Dataset: DataDNA Dataset Challenge - Customer Satisfaction Data
 * Records: 120 customers
 * Fields included:
 o	Demographics: Age, Gender, Location (City/State)
