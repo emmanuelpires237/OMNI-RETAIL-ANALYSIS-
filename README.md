@@ -8,7 +8,7 @@ In a competitive market, understanding the why behind customer attitudes is cruc
 •	Whether contact with support teams impacts satisfaction
 •	The behavioral differences between one-time and repeat buyers
 By visualizing and analyzing these patterns, this project bridges the gap between raw feedback data and strategic customer experience management.
-________________________________________
+
 **2.Project Scope**
 
 **The project aimed to:**
@@ -50,7 +50,7 @@ Used slicers and interactive filters (Location, Age, Satisfaction Factor) for fl
 
 * Interpreted trends and patterns using descriptive analytics and comparative visual storytelling.
 * Highlighted actionable insights for business decision-making.
-________________________________________
+
 **4.Data Source**
 
 * Dataset: DataDNA Dataset Challenge - Customer Satisfaction Data
@@ -70,7 +70,7 @@ Microsoft Excel	Initial data review, cleaning, and transformation
 DAX (Data Analysis Expressions)	Used for calculated KPIs, measures, and dynamic insights
 Power Query Editor	Data shaping and preprocessing
 Map Visuals (ArcGIS / Filled Map)	Regional satisfaction mapping
-________________________________________
+
 **6.Results and Key Findings (with KPIs)**
 
 **Key KPIs Developed**
@@ -106,7 +106,7 @@ o	Chicago, Phoenix, and San Diego topped satisfaction rankings, while Los Angele
 
 **6.	Group-Level Insight:**
 Group “B” recorded more customers with higher satisfaction and loyalty scores compared to Group “A”.
-________________________________________
+
 **7.Recommendations**
 
 **1.	Enhance Low-Performing Factors:**
@@ -123,7 +123,7 @@ Continue investing in support quality — it currently sustains satisfaction eve
 
 **5.	Demographic Segmentation:**
 Tailor marketing and retention strategies by age group and gender to maximize engagement from loyal segments.
-________________________________________
+
 **8.Conclusion**
 
 This Power BI project demonstrates how data analytics transforms customer data into strategic intelligence.
@@ -133,13 +133,13 @@ By integrating customer feedback, behavioral data, and geographic trends, the da
 
 “Customer loyalty is not random — it’s data-driven.”
 Businesses that consistently track, analyze, and act on customer satisfaction metrics will retain more customers, improve product quality, and create long-term brand advocates.
-________________________________________
+
 **9.Additional Highlights**
 
 * Fully interactive dashboard with drill-through and slicers.
 * Consistent visual theme using dual-tone color coding (brown for loyalty, blue for satisfaction).
 * Designed for executive-level storytelling with intuitive KPIs and regional context.
-________________________________________
+
 **10.Project Impact**
 
 **This project showcases:**
