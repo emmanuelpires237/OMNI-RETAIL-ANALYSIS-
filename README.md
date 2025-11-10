@@ -22,3 +22,41 @@ Core questions addressed:
 3.	How does customer support interaction affect satisfaction?
 4.	Do repeat buyers show higher satisfaction than one-time buyers?
 5.	Which regions report the most loyal or dissatisfied customers?
+
+**3.Methodology**
+
+**A structured data analytics life cycle was followed:**
+
+**Step 1: Data Collection & Cleaning**
+
+* Imported the dataset into Power BI and reviewed for missing values or inconsistencies.
+* Cleaned data fields for clarity (e.g., separating Location into City and State).
+* Verified numeric formats for satisfaction scores, age, and geolocation.
+
+**Step 2: Data Modeling**
+
+* Created relationships between fields where necessary.
+* Added calculated columns:
+o	Age_Group (using DAX to categorize ages into 18–25, 26–40, 41–60, 60+)
+o	Numeric loyalty levels for easier analysis.
+* Built DAX measures for KPIs such as average satisfaction, high loyalty percentage, and support contact rate.
+
+**Step 3: Visualization**
+
+Designed a multi-section dashboard combining KPIs, demographic visuals, behavioral analysis, and geographical insights.
+Used slicers and interactive filters (Location, Age, Satisfaction Factor) for flexible exploration.
+
+**Step 4: Analysis & Insight Extraction**
+
+* Interpreted trends and patterns using descriptive analytics and comparative visual storytelling.
+* Highlighted actionable insights for business decision-making.
+________________________________________
+**4.Data Source**
+
+*Dataset: DataDNA Dataset Challenge - Customer Satisfaction Data
+* Records: 120 customers
+* Fields included:
+o	Demographics: Age, Gender, Location (City/State)
+o	Behavioral: Purchase History, Support Contacted
+o	Attitudinal: Satisfaction Score, Loyalty Level, Satisfaction Factors
+o	Geographic: Latitude & Longitude
