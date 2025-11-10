@@ -12,11 +12,10 @@ ________________________________________
 **2.Project Scope**
 
 The project aimed to:
-
-•	Analyze and visualize customer satisfaction and loyalty patterns
-•	Measure the impact of key factors such as support interaction, purchase history, and demographics
-•	Identify regional and segment-based differences
-•	Build an interactive Power BI dashboard to enable data exploration by stakeholders
+* Analyze and visualize customer satisfaction and loyalty patterns
+* Measure the impact of key factors such as support interaction, purchase history, and demographics
+* Identify regional and segment-based differences
+* Build an interactive Power BI dashboard to enable data exploration by stakeholders
 Core questions addressed:
 1.	What factors contribute to high or low satisfaction scores?
 2.	Are certain customer segments more loyal than others?
