@@ -60,3 +60,22 @@ o	Demographics: Age, Gender, Location (City/State)
 o	Behavioral: Purchase History, Support Contacted
 o	Attitudinal: Satisfaction Score, Loyalty Level, Satisfaction Factors
 o	Geographic: Latitude & Longitude
+
+**5.Tools Used**
+
+**Tool	Purpose**
+
+Microsoft Power BI Desktop	Main platform for data visualization and dashboard creation
+Microsoft Excel	Initial data review, cleaning, and transformation
+DAX (Data Analysis Expressions)	Used for calculated KPIs, measures, and dynamic insights
+Power Query Editor	Data shaping and preprocessing
+Map Visuals (ArcGIS / Filled Map)	Regional satisfaction mapping
+________________________________________
+**6.Results and Key Findings (with KPIs)**
+
+**Key KPIs Developed**
+
+KPI	DAX Measure	Value/Insight
+Average Satisfaction Rate	5.35	Overall satisfaction level
+High Loyalty %	31%	Share of customers marked as highly loyal
+Support Contact Rate	47%	Proportion of customers who reached support
