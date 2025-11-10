@@ -148,4 +148,5 @@ Businesses that consistently track, analyze, and act on customer satisfaction me
 * Technical expertise — Power BI, DAX, and data visualization
 * Business acumen — transforming data into actionable recommendations
 
-  
+  ![Uploading DASHBOARD.png…]()
+
