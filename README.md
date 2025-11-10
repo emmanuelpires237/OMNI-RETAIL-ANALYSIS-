@@ -9,7 +9,8 @@ In a competitive market, understanding the why behind customer attitudes is cruc
 •	The behavioral differences between one-time and repeat buyers
 By visualizing and analyzing these patterns, this project bridges the gap between raw feedback data and strategic customer experience management.
 ________________________________________
-🎯 2. Project Scope
+**2.Project Scope**
+
 The project aimed to:
 •	Analyze and visualize customer satisfaction and loyalty patterns
 •	Measure the impact of key factors such as support interaction, purchase history, and demographics
