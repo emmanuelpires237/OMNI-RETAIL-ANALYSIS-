@@ -75,7 +75,7 @@ ________________________________________
 
 **Key KPIs Developed**
 
-KPI	DAX                               Measure    	                          Value/Insight
-Average Satisfaction Rate	            5.35                                Overall satisfaction level
-High Loyalty %	                      31%                              	  Share of customers marked as highly loyal
-Support Contact Rate	                47%	                                Proportion of customers who reached support
+**KPI**
+* Average Satisfaction Rate
+* High Loyalty %
+* Support Contact Rate
