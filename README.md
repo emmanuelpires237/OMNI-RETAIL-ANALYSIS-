@@ -107,34 +107,45 @@ o	Chicago, Phoenix, and San Diego topped satisfaction rankings, while Los Angele
 **6.	Group-Level Insight:**
 Group “B” recorded more customers with higher satisfaction and loyalty scores compared to Group “A”.
 ________________________________________
-💡 7. Recommendations
-1.	Enhance Low-Performing Factors:
+**7.Recommendations**
+
+**1.	Enhance Low-Performing Factors:**
 Focus on improving “Ease of Use” and “Features” since these had the lowest satisfaction impact.
-2.	Customer Retention Strategy:
+
+**2.	Customer Retention Strategy:**
 Leverage insights from repeat buyers to design loyalty programs targeting one-time buyers.
-3.	Regional Targeting:
+
+**3.	Regional Targeting:**
 Investigate practices in top-performing cities (Chicago, Phoenix) and replicate success strategies in low-satisfaction areas.
-4.	Customer Support Optimization:
+
+**4.	Customer Support Optimization:**
 Continue investing in support quality — it currently sustains satisfaction even post-issue, which is a competitive strength.
-5.	Demographic Segmentation:
+
+**5.	Demographic Segmentation:**
 Tailor marketing and retention strategies by age group and gender to maximize engagement from loyal segments.
 ________________________________________
-🧭 8. Conclusion
+**8.Conclusion**
+
 This Power BI project demonstrates how data analytics transforms customer data into strategic intelligence.
 By integrating customer feedback, behavioral data, and geographic trends, the dashboard provides a holistic view of customer satisfaction and loyalty.
-Key takeaway:
+
+**Key takeaway:**
+
 “Customer loyalty is not random — it’s data-driven.”
 Businesses that consistently track, analyze, and act on customer satisfaction metrics will retain more customers, improve product quality, and create long-term brand advocates.
 ________________________________________
-🌟 9. Additional Highlights
-•	Fully interactive dashboard with drill-through and slicers.
-•	Consistent visual theme using dual-tone color coding (brown for loyalty, blue for satisfaction).
-•	Designed for executive-level storytelling with intuitive KPIs and regional context.
+**9.Additional Highlights**
+
+* Fully interactive dashboard with drill-through and slicers.
+* Consistent visual theme using dual-tone color coding (brown for loyalty, blue for satisfaction).
+* Designed for executive-level storytelling with intuitive KPIs and regional context.
 ________________________________________
-🔗 10. Project Impact
-This project showcases:
-•	Analytical thinking — identifying business patterns through data
-•	Technical expertise — Power BI, DAX, and data visualization
-•	Business acumen — transforming data into actionable recommendations
+**10.Project Impact**
+
+**This project showcases:**
+
+* Analytical thinking — identifying business patterns through data
+* Technical expertise — Power BI, DAX, and data visualization
+* Business acumen — transforming data into actionable recommendations
 
   
