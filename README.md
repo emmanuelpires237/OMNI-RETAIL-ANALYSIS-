@@ -63,7 +63,7 @@ o	Geographic: Latitude & Longitude
 
 **5.Tools Used**
 
-**Tool	Purpose**
+**Tool and	Purpose**
 
 Microsoft Power BI Desktop	Main platform for data visualization and dashboard creation
 Microsoft Excel	Initial data review, cleaning, and transformation
