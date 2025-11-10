@@ -86,19 +86,24 @@ ________________________________________
 
 **1.	Loyalty and Satisfaction Correlation:**
 Customers with high loyalty scores had average satisfaction ratings above 5.8, confirming that loyalty strongly aligns with customer happiness.
+
 **2.	Top Drivers of Satisfaction:**
 o	Product Quality (7.5)
 o	Packaging (7.0)
 o	Product Variety (6.1)
 These emerged as major factors influencing satisfaction, while Ease of Use and Features ranked lowest.
+
 **3.	Impact of Support Interaction:**
 Contacting customer support had a neutral effect on satisfaction — indicating that support teams are resolving issues efficiently without reducing confidence.
+
 **4.	Repeat vs One-Time Buyers:**
 Repeat buyers had an average satisfaction score of 5.6, slightly higher than one-time buyers at 5.0, implying positive post-purchase experiences.
+
 **5.	Demographic and Regional Patterns:**
 o	Males showed slightly higher loyalty averages compared to females.
 o	Mid-age segments (26–40, 41–60) displayed stronger loyalty and satisfaction levels.
 o	Chicago, Phoenix, and San Diego topped satisfaction rankings, while Los Angeles and Austin showed room for improvement.
+
 **6.	Group-Level Insight:**
 Group “B” recorded more customers with higher satisfaction and loyalty scores compared to Group “A”.
 ________________________________________
