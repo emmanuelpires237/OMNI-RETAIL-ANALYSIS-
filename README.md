@@ -76,6 +76,10 @@ ________________________________________
 **Key KPIs Developed**
 
 * Average Satisfaction Rate with Dax Measure of 5.35 and value insight of overall satisfaction level
-* High Loyalty level of 31% and value insight of Share of customers marked as highly loya
+* High Loyalty level of 31% and value insight of Share of customers marked as highly loyal
 * Support Contact Rate of 47%	and value insight of Proportion of customers who reached support
+* Total Customers	120	Size of customer dataset
+* High Satisfaction % (≥8)	~25%	Customers with strong satisfaction ratings
+* Repeat Buyers %	~57%	Customers with multiple purchases
 
+  
