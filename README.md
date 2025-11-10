@@ -1,5 +1,6 @@
 # OMNI RETAIL ANALYSIS
 **1.Project Overview**
+
 The Customer Satisfaction and Loyalty Analytics Dashboard was designed to uncover insights into what drives customer satisfaction, loyalty, and repeat purchasing behavior.
 In a competitive market, understanding the why behind customer attitudes is crucial. This dashboard serves as a data-driven decision-support tool, helping businesses identify:
 •	Which factors contribute most to customer happiness
