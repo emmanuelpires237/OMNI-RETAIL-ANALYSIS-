@@ -11,7 +11,7 @@ By visualizing and analyzing these patterns, this project bridges the gap betwee
 ________________________________________
 **2.Project Scope**
 
-The project aimed to:
+**The project aimed to:**
 * Analyze and visualize customer satisfaction and loyalty patterns
 * Measure the impact of key factors such as support interaction, purchase history, and demographics
 * Identify regional and segment-based differences
